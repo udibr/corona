@@ -5,7 +5,6 @@ corona virus
 ### dash-boards
 * https://coronavirus.jhu.edu/map.html
 * https://ramikrispin.github.io/coronavirus_dashboard/#summary
-* http://gabgoh.github.io/COVID/index.html
 
 ### overviews
 * https://www.nytimes.com/interactive/2020/03/19/world/coronavirus-flatten-the-curve-countries.html?action=click&module=Top%20Stories&pgtype=Homepage#
@@ -17,4 +16,5 @@ corona virus
 * https://ramikrispin.github.io/coronavirus/
 
 ### models
+* http://gabgoh.github.io/COVID/index.html
 * https://systems.jhu.edu/research/public-health/ncov-model-2/
