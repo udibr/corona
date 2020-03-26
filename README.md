@@ -22,7 +22,7 @@ corona virus data-science
 * https://systems.jhu.edu/research/public-health/ncov-model-2/
 * https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-NPI-modelling-16-03-2020.pdf
 * [Substantial undocumented infection facilitates the rapid dissemination of novel coronavirus](https://science.sciencemag.org/content/early/2020/03/13/science.abb3221),
- [code](https://github.com/SenPei-CU/COVID-19),
+ [my code](https://github.com/COVID-19),
  Linear-Digressions [podcast](http://lineardigressions.com/episodes/2020/3/22/understanding-covid-19-transmission-what-the-data-suggests-about-how-the-disease-spreads)
 
 ### Genom
