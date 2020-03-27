@@ -5,14 +5,17 @@ corona virus data-science
 ### dash-boards
 * [Johns Hopkins](https://coronavirus.jhu.edu/map.html)
 * [ramikrispin R](https://ramikrispin.github.io/coronavirus_dashboard/#summary) using Johns Hopkins
-* [COVID 19 in Israel](https://covid19data.co.il/)
+* [In Israel](https://covid19data.co.il/)
 
 ### overviews
+* [ourworldindata](https://ourworldindata.org/coronavirus)
+* [fastai](https://www.fast.ai/2020/03/09/coronavirus/?utm_campaign=NLP%20News&utm_medium=email&utm_source=Revue%20newsletter)
 * [New York Times, Which Country Has Flattened the Curve for the Coronavirus?](https://www.nytimes.com/interactive/2020/03/19/world/coronavirus-flatten-the-curve-countries.html?action=click&module=Top%20Stories&pgtype=Homepage#)
-* https://ourworldindata.org/coronavirus
 * https://medium.com/@tomaspueyo/coronavirus-the-hammer-and-the-dance-be9337092b56
 
 ### data sources
+* [Allen Institute for AI](https://pages.semanticscholar.org/coronavirus-research)
+* [Kaggle - Allen Institue](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge)
 * https://github.com/globalcitizen/2019-wuhan-coronavirus-data
 * https://ramikrispin.github.io/coronavirus/
 * https://jamanetwork.com/journals/jama/fullarticle/2762130
@@ -27,3 +30,8 @@ corona virus data-science
 
 ### Genom
 * https://nextstrain.org/
+
+### Actionsa
+* [Global Hackaton](https://covid-global-hackathon.devpost.com/)
+* [OpenSource help desk](https://covid-oss-help.org/)
+
