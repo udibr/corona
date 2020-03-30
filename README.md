@@ -6,6 +6,8 @@ corona virus data-science
 * [Johns Hopkins](https://coronavirus.jhu.edu/map.html)
 * [ramikrispin R](https://ramikrispin.github.io/coronavirus_dashboard/#summary) using Johns Hopkins
 * [In Israel](https://covid19data.co.il/)
+* [new vs total cases](https://aatishb.com/covidtrends/) [minutephysics](https://youtu.be/54XLXg4fYsc)
+* [NY justpy](http://justpy.org/state/ny)
 
 ### overviews
 * [ourworldindata](https://ourworldindata.org/coronavirus)
@@ -27,7 +29,7 @@ corona virus data-science
 * [Substantial undocumented infection facilitates the rapid dissemination of novel coronavirus](https://science.sciencemag.org/content/early/2020/03/13/science.abb3221),
  [my code](https://github.com/udibr/COVID-19),
  Linear-Digressions [podcast](http://lineardigressions.com/episodes/2020/3/22/understanding-covid-19-transmission-what-the-data-suggests-about-how-the-disease-spreads)
-
+* [3Blue1Brown](https://youtu.be/gxAaO2rsdIs)
 ### Genom
 * https://nextstrain.org/
 
