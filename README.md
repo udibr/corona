@@ -21,6 +21,7 @@ corona virus data-science
 * https://github.com/globalcitizen/2019-wuhan-coronavirus-data
 * https://ramikrispin.github.io/coronavirus/
 * https://jamanetwork.com/journals/jama/fullarticle/2762130
+* [The COVID Tracking Project - US](https://covidtracking.com/)
 
 ### models
 * http://gabgoh.github.io/COVID/index.html
