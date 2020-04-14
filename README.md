@@ -38,3 +38,5 @@ corona virus data-science
 * [Global Hackaton](https://covid-global-hackathon.devpost.com/)
 * [OpenSource help desk](https://covid-oss-help.org/)
 
+## Obituaries
+* [John Conway](http://udibr.github.io/wasm-game-of-life/index.html)
