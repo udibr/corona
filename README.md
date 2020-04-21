@@ -1,7 +1,7 @@
 # corona
 corona virus data-science
 
-## Sources
+## Data
 ### dash-boards
 * [Johns Hopkins](https://coronavirus.jhu.edu/map.html)
 * [ramikrispin R](https://ramikrispin.github.io/coronavirus_dashboard/#summary) using Johns Hopkins
@@ -16,6 +16,7 @@ corona virus data-science
 * https://medium.com/@tomaspueyo/coronavirus-the-hammer-and-the-dance-be9337092b56
 
 ### data sources
+* [NY Times](https://github.com/nytimes/covid-19-data)
 * [Allen Institute for AI](https://pages.semanticscholar.org/coronavirus-research)
 * [Kaggle - Allen Institue](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge)
 * https://github.com/globalcitizen/2019-wuhan-coronavirus-data
@@ -34,9 +35,13 @@ corona virus data-science
 ### Genom
 * https://nextstrain.org/
 
-### Actionsa
+### Actions
 * [Global Hackaton](https://covid-global-hackathon.devpost.com/)
 * [OpenSource help desk](https://covid-oss-help.org/)
+
+## Cryptography
+* [zkStudyClub: PrivacyPost-Quarantine Info Gathering Session
+](https://www.youtube.com/watch?v=J5jZh-Tugog)
 
 ## Obituaries
 * [John Conway](http://udibr.github.io/wasm-game-of-life/index.html)
